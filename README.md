@@ -14,9 +14,9 @@ Project Mini SOC adalah implementasi sistem monitoring keamanan siber berbasis W
 
 # Link Video Demo
 
-```
-https://drive.google.com/drive/folders/1P1vCq4MT7eb4H11p-H6vzDY3QUO1NUyJ
-```
+| Demo |
+|--------|
+| [Record Video Demo](https://drive.google.com/drive/folders/1P1vCq4MT7eb4H11p-H6vzDY3QUO1NUyJ) |
 
 ---
 
