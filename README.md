@@ -26,7 +26,7 @@ Project Mini SOC adalah implementasi sistem monitoring keamanan siber berbasis W
 
 Ancaman keamanan siber semakin berkembang pesat seiring dengan meningkatnya ketergantungan organisasi terhadap infrastruktur digital. Serangan seperti Distributed Denial of Service (DDoS), brute force authentication, dan eksploitasi layanan web menjadi vektor ancaman yang umum dijumpai di lingkungan produksi maupun akademis. Untuk menghadapi ancaman tersebut, diperlukan suatu sistem pemantauan keamanan yang mampu mengumpulkan, menganalisis, dan merespons insiden secara real-time.
 
-Security Operations Center (SOC) merupakan unit terpusat dalam sebuah organisasi yang bertanggung jawab atas pemantauan, deteksi, dan penanganan insiden keamanan secara berkelanjutan. Pada praktikum ini, dibangun sebuah Mini SOC menggunakan platform open-source Wazuh sebagai solusi Security Information and Event Management (SIEM) yang di-deploy di atas infrastruktur cloud Microsoft Azure.
+Security Operations Center (SOC) merupakan unit terpusat dalam sebuah organisasi yang bertanggung jawab atas pemantauan, deteksi, dan penanganan insiden keamanan secara berkelanjutan. Pada kali ini, dibangun sebuah Mini SOC menggunakan platform open-source Wazuh sebagai solusi Security Information and Event Management (SIEM) yang di-deploy di atas infrastruktur cloud Microsoft Azure.
 
 Arsitektur yang digunakan memanfaatkan tiga Virtual Machine (VM) yang masing-masing menjalankan peran berbeda:
 
@@ -45,8 +45,7 @@ Selain itu, sistem dikonfigurasi agar peringatan keamanan tingkat kritikal diter
 * Menganalisis alert yang dihasilkan Wazuh pada dashboard Threat Hunting.
 
 ## 1.3 Ruang Lingkup
-
-Praktikum ini mencakup:
+Tugas ini mencakup:
 
 * Deployment infrastruktur cloud Azure
 * Instalasi dan konfigurasi Wazuh Manager
